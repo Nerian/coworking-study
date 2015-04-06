@@ -76,6 +76,7 @@ hr {
 .container p, .container ol, .container ul {
   font-size: 17px;
   padding: 0 5%;
+  font-family: sans-serif;
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
